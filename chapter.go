@@ -148,7 +148,7 @@ func GetChapterListSteps() []*Step {
 	steps[6] = &Step {
 		Element: "div",
 		Id: "",
-		Class: "detail_body challenge",
+		Class: "detail_body banner",
 	}
 
 	steps[7] = &Step {
